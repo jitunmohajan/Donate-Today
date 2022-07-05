@@ -1,0 +1,136 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 25px;
+}
+p{
+    color: gray;
+}
+.header{
+    color: white;
+    height: 100%;
+    background-image: url(images/donation3.jpg);
+    background-repeat: no-repeat;
+    width: 1300px;
+    height: 150vh;
+    background-size:100% 100%;
+
+    
+}
+.section-item{
+    padding-bottom: 5%;
+
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+    padding-top: 8%;
+}
+.container p{
+    font-size: 18px;
+    padding-bottom: 3%;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 15px 25px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    background-color: tomato;
+    
+}
+.small-card-container{
+    width: 100%;
+    display: flex;
+    /* padding-bottom: 5%; */
+    margin-left: 22%;
+}
+.small-card{
+    background-color: #FAFAFA;
+    height: 100px;
+    width: 100px;
+    padding-left: 1%;
+    margin-right: 2%;
+    border-radius: 5px;
+}
+
+#small-card-200{
+    color: tomato;
+    border: 2px solid tomato;
+    background-color: #FFEEEE;
+}
+.donate_amount{
+    width: 100%;
+}
+.other_amount{
+    width: 100%;
+    
+}
+#other_amount {
+    width:52%;
+    text-align: center;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid gray;
+    margin-left: 22%;
+}
+.btn-set{
+    margin-top: 5%;
+    margin-left: 43%;
+}
+
+.donate-card-container{
+    display: flex;
+    margin-left: 5%;
+}
+
+.donate-card{
+    width: 25%;
+    padding-left: 30px;
+    padding-right: 5px;
+    padding-top: 30px;
+    padding-bottom: 5%;
+    /* border: 5px solid black; */
+    margin-left: 2%;
+    border-radius: 5px;
+    
+}
+#food-for-family{
+    background-color: #edf5f6;
+}
+
+#shelter-for-family{
+    background-color: #ffeeee;
+}
+#education-for-child{
+    background-color: #fff4d6;
+}
+
+footer{
+    color: white;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 0;
+    background-color: black;
+    text-align: center;
+    padding-top: 1%;
+}
+footer h4{
+    color: tomato;
+}
