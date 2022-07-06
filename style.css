@@ -58,9 +58,10 @@ p{
     background-color: #FAFAFA;
     height: 100px;
     width: 100px;
-    padding-left: 1%;
+    text-align: center;
     margin-right: 2%;
     border-radius: 5px;
+    
 }
 
 #small-card-200{
@@ -98,7 +99,7 @@ p{
     width: 25%;
     padding-left: 30px;
     padding-right: 5px;
-    padding-top: 30px;
+    padding-top: 70px;
     padding-bottom: 5%;
     margin-left: 2%;
     border-radius: 5px; 
@@ -120,7 +121,7 @@ p{
     width: 950px;
     height: 150px;
     background-color: #FFF4D6;
-    margin-left: 480px;
+    margin-left: 300px;
     margin-bottom: 5%;
     padding-top: 5%;
     justify-content: center;
@@ -139,7 +140,6 @@ p{
 }
 .text-input{
     padding: 15px 100px;
- 
 }
 .covid-section{
     display: flex;
