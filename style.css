@@ -130,16 +130,19 @@ p{
     padding-bottom: 15%;
 }
 .subscribe-btn{
-    padding: 17px 30px;
+    padding: 15px 30px;
     color: white;
     font-weight: 700;
     background-color: tomato;
-    border-radius: 5px;
+    border-radius: 0px 5px 5px 0;
     margin-left: -8px;
     border: none;
 }
 .text-input{
     padding: 15px 100px;
+    background-color: #d9d9d9;
+    border: none;
+    border-radius: 5px;
 }
 .covid-section{
     display: flex;
